@@ -1,0 +1,9 @@
+# Regras
+
+1. Nem todos os aprovados tem notas acima de 7;
+
+# Possíveis Erros de Criação
+
+1. Variaveis insuficientes;
+2. Opção Disciplina necessária;
+3. Distribuido em Disciplinas, garantir que tenha só uma disciplina selecionada;

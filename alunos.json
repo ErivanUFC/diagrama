@@ -1,0 +1,281 @@
+[
+    {
+        "matricula" : 0,
+        "notas": {
+            "ProgI": {
+                "turma": "2016.1",
+                "valor": 10.0
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 8.0
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 9.0
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 7.0
+            }
+        }, 
+        "frequencia": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 100.0
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 75.0
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 20.0
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 75.0
+            }
+        },
+        "situacao": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            }
+        },
+        "idade": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 19
+            }
+        },
+        "avaliação": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": true
+            }
+        }
+    },
+    {
+        "matricula" : 1,
+        "notas": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 10.0
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 8.0
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 9.0
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 7.0
+            }
+        }, 
+        "frequencia": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 80.0
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 75.0
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 20.0
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 75.0
+            }
+        },
+        "situacao": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            }
+        },
+        "idade": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 19
+            }
+        },
+        "avaliação": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": true
+            }
+        }
+    },
+    {
+        "matricula" : 2,
+        "notas": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 10.0
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 8.0
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 9.0
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 7.0
+            }
+        }, 
+        "frequencia": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 80.0
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 75.0
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 20.0
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 75.0
+            }
+        },
+        "situacao": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": "REPROVADO"
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": "APROVADO"
+            }
+        },
+        "idade": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": 19
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": 19
+            }
+        },
+        "avaliação": {
+            "ProgI": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "ProgII": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "Mami": {
+                "turma": "2017.1",
+                "valor": true
+            },
+            "AutoII": {
+                "turma": "2017.1",
+                "valor": true
+            }
+        }
+    }
+]
